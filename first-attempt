@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE MAINFRAME</title>
+</head>
+    <body>
+        <header>
+            <h1>WELCOME TO THE MAINFRAME</h1>
+        </header>
+        <main>
+            <h2>Yeah wow ok I'm freaking IN! Haha I am the architect of a thousand destinies.</h2>
+            <section>
+                <h3>SENSITIVE DATA</h3>
+            </section>
+            <article>
+                <p>One hundred thousand nuclear warheads have been discovered 
+                amongst a fleet of Russian cruise ships docked along the Cape of Good Hope.</p>
+                <form type="text" required rows="10" cols="8">How does this make you feel?
+                    <textarea required>How does this make you feel?</textarea>
+                </form>
+            </article>
+            <section>
+                <h3>EXTREMELY SENSITIVE INFORMATION CONCERNING LIBYA'S EXPORTS</h3>
+            </section>
+            <article>
+                <table>
+                    <tr>Customer
+                        <td>LibyaFan99</td>
+                        <td>IHeartLibya8862</td>
+                        <td>Massachusetts</td>
+                    </tr>
+                    <tc>Product
+                        <td>Libyan Death Rockets</td>
+                        <td>Libyan Life Rockets</td>
+                        <td>Libyan Pastries</td>
+                    </tc>
+                </table>
+            </article>
+        </main>
+    </body>
+</html>
