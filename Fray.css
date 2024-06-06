@@ -1,15 +1,36 @@
-p {
-    color: blueviolet;
-    font-family: Impact;
-    font-size: 18px;
-}
-
 h3 {
     color: burlywood;
     font-family: 'Franklin Gothic Medium';
     font-size: 24px;
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    font-family: Impact;
+    font-size: 18px;
+    margin: 30px 30px;
+    padding: 30px 30px;
+    border: 5px dotted blue;
+    text-align: center;
 }
 
 pre {
     color: brown;
+    text-align: center;
+}
+
+legend {
+    color: orangered;
+    text-align: center;
+}
+
+img {
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
