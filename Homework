@@ -18,7 +18,7 @@
       <label><input type="radio" name="option" id="no">No</label>
     </div>
     <div>
-      <img src="https://www.johnelliott.com/cdn/shop/products/LA_SWEATPANTS_FLAT_DARK_GREY.jpg?v=1593472456" alt="A pair of gray sweatpants">
+      <img src="https://www.johnelliott.com/cdn/shop/products/LA_SWEATPANTS_FLAT_DARK_GREY.jpg?v=1593472456" alt="A pair of gray sweatpants" height="400" width="300">
       <p>This is a <a href="https://www.google.com/">link</a></p>
     </div>
     <div>
