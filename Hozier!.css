@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    box-align: center;
+}
+
+.ireland {
+    background-color: greenyellow;
+    width: 400px;
+    height: 150px;
+    padding: 35px;
+    margin: 50px;
+    border: 6px outset;
+}
