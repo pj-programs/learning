@@ -30,6 +30,11 @@
           and create LIFE! I AM CREATING LIFE!
         </pre>
     </div>
+    <div>
+      <label><input type="checkbox" name="selection" id="spants">Sweatpants</label>
+      <label><input type="checkbox" name="selection" id="bshorts">Basketball Shorts</label>
+      <label><input type="checkbox" name="selection" id="pjs">Pajamas</label>
+    </div>
   </body>
   <footer>
   </footer>
