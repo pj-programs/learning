@@ -1,3 +1,4 @@
+<pre>  
   May 21, 2024
   
   Hello, world! My name is PJ Witkowski, and I'm a self-taught programmer currently learning HTML, CSS, and JavaScript.
@@ -21,3 +22,4 @@ Until next time!
   What's up, Gaia! Box Model is still kind of scary and it's made me anxious to work on anything. The novelty of learning programming has worn off a bit, and now comes the vital and hard part of the learning process. Codifying (pun intended) this effort into routine! It's hard learning this all by myself with no physical peers or teachers, but I can do hard things. I am unstoppable!
 
 ~PJ
+</pre>
