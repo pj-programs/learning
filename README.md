@@ -15,3 +15,9 @@ Until next time!
   Hello, Earth! I have begun learning CSS. It's very exciting to start to make websites that don't look terrible haha. Maybe it's just because I haven't learned any of the really complicated stuff, but programming is just kind of relaxing at the moment. It's problem solving but also after a few minutes of work you look up and there's something that wasn't there before. Creation. Magic!
 
 ~PJ
+
+  June 12,2024
+
+  What's up, Gaia! Box Model is still kind of scary and it's made me anxious to work on anything. The novelty of learning programming has worn off a bit, and now comes the vital and hard part of the learning process. Codifying (pun intended) this effort into routine! It's hard learning this all by myself with no physical peers or teachers, but I can do hard things. I am unstoppable!
+
+~PJ
