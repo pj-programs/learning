@@ -14,3 +14,12 @@ h1 {
     margin: 50px;
     border: 6px outset;
 }
+
+.song {
+    background-color: orange;
+    display: inline-block;
+    margin: 25px;
+    padding: 8px;
+    border: 6px outset;
+    text-align: center;
+}
