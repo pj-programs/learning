@@ -13,6 +13,7 @@ h1 {
     padding: 35px;
     margin: 50px;
     border: 6px outset;
+    font-family: courier;
 }
 
 .song {
