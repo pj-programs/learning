@@ -15,8 +15,8 @@
     <div>
       <fieldset> 
         <h2>Can I do anything I put my mind to? Achieve my dreams?</h2>
-        <p><input type="radio" name="confident" id="conyes">Yeah, man.</p>
-        <p><input type="radio" name="confident" id="conyesyes">Absolutely, friend!!!</p>
+        <label><input type="radio" name="confident" id="conyes">Yeah, man.</label>
+        <label><input type="radio" name="confident" id="conyesyes">Absolutely, friend!!!</label>
       </fieldset>
     </div>
   </body>
