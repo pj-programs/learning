@@ -29,4 +29,10 @@ Codifying (pun intended) this effort into routine! It's hard learning this all b
 but I can do hard things. I am unstoppable!
 
 ~PJ
+
+  August 6, 2024
+
+  I'm back.
+
+~PJ
 </pre>
