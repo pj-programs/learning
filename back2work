@@ -1,0 +1,25 @@
+<DOCTYPE!>
+<html>
+  <head>
+    <title>Getting Back Into It</title>
+  </head>
+  <body>
+    <div>
+      <h1>I Have Not Coded in Two Months</h1>
+        <h2>Why is that?</h2>
+          <img src="https://miro.medium.com/v2/resize:fit:620/1*kwN_Y8GNf2ZB6sNQxngVyw@2x.jpeg" alt="A cartoon figure posing next to a question mark" height=620 width=590>
+          <p>I will keep the excuses brief! Sad. New job. Moved! Rusty but THRILLED to de-rust</p>
+      <h1>How will I move on from here?</h1>
+        <h2>I'm gonna code my way to the <em>freaking <strong>top</strong></em></h2>
+    </div>
+    <div>
+      <fieldset> 
+        <h2>Can I do anything I put my mind to? Achieve my dreams?</h2>
+        <p><input type="radio" name="confident" id="conyes">Yeah, man.</p>
+        <p><input type="radio" name="confident" id="conyesyes">Absolutely, friend!!!</p>
+      </fieldset>
+    </div>
+  </body>
+  <footer>
+  </footer>
+</html>
